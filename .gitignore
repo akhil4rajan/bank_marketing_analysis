@@ -8,7 +8,9 @@
 *.joblib
 venv/
 
-code/models
-code/models_smote_approach
+code/models/*/
+!code/models/*.*
+code/models_smote_approach/*/
+!code/models_smote_approach/*.*
 
 .idea/
