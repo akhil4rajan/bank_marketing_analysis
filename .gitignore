@@ -1,0 +1,12 @@
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+*.joblib
+venv/
+
+code/models
+code/models_smote_approach
