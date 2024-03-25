@@ -10,3 +10,5 @@ venv/
 
 code/models
 code/models_smote_approach
+
+.idea/

@@ -1,1 +1,1 @@
-# bank_marketing_analysis
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvLnLQ4iVtCoSB1DGXzFVwZWklRx2e-slQzNIngMbvk2WCg5tNofykXBT6h9iBMDyNT85ik6raZHam/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
